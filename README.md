@@ -16,6 +16,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Next.JS
 - (Soon to be) hosted via Heroku
 
+**Future Features**
+- Leverage some cool APIs
+
 **Future Security Features**
 - GitHub Dependabot
 - Monitoring with Datadog
